@@ -232,7 +232,7 @@ Use Cases by Urgency
 
 → Focus on downtime UI and have metrics as supporting information
 
-![alt text](<Screenshot 2026-04-27 at 11.45.44 AM.png>)
+![alt text](image-1.png)
 
 ## AI Usage
 
